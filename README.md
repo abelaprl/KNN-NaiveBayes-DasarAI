@@ -60,12 +60,13 @@ Other Python libraries (install using pip): sklearn, scipy, matplotlib, numpy, p
 
 ## Task Distribution  
 
-| NIM       | Name                     | Tasks                                   |  
-|-----------|--------------------------|-----------------------------------------|  
-| 18222008  | Abel Apriliani           | Inisiasi notebook, EDA, Data Cleaning, Data Validation, Submission, Laporan     |  
-| 18222036  | Olivia Christy Lismanto  | Data Preprocessing, Submission, Error Analysis, Laporan                     |  
-| 18222044  | Khansa Adilla Reva       | Implementasi KNN, Submission, Laporan      |  
-| 18222062  | Nafisha Virgin           | Implementasi Naive Bayes, Laporan                   |  
+| NIM      | Name                          | Tasks                                                                 |
+|----------|-------------------------------|-----------------------------------------------------------------------|
+| 18222008 | Abel Apriliani                | Notebook initialization, EDA, Data Cleaning, Data Validation, Submission, Report |
+| 18222036 | Olivia Christy Lismanto       | Data Preprocessing, Submission, Error Analysis, Report               |
+| 18222044 | Khansa Adilla Reva            | KNN Implementation, Submission, Report                                |
+| 18222062 | Nafisha Virgin                | Naive Bayes Implementation, Report                                    |
+                
 ## References
 
 1. [PhiUSIIL Phishing URL Dataset](https://archive.ics.uci.edu/dataset/967/phiusiil+phishing+url+dataset)
