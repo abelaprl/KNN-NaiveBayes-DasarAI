@@ -64,7 +64,7 @@ Other Python libraries (install using pip): sklearn, scipy, matplotlib, numpy, p
 |-----------|--------------------------|-----------------------------------------|  
 | 18222008  | Abel Apriliani           | Inisiasi notebook, EDA, Data Cleaning, Data Validation, Submission, Laporan     |  
 | 18222036  | Olivia Christy Lismanto  | Data Preprocessing, Submission, Laporan                     |  
-| 18222044  | Khansa Adilla Reva       | Implementasi KNN, Laporan      |  
+| 18222044  | Khansa Adilla Reva       | Implementasi KNN, Submission, Laporan      |  
 | 18222062  | Nafisha Virgin           | Implementasi Notebook, Laporan                   |  
 ## References
 
