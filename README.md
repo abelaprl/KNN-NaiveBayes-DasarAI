@@ -62,8 +62,8 @@ Other Python libraries (install using pip): sklearn, scipy, matplotlib, numpy, p
 
 | NIM      | Name                          | Tasks                                                                 |
 |----------|-------------------------------|-----------------------------------------------------------------------|
-| 18222008 | Abel Apriliani                | Notebook initialization, EDA, Data Cleaning, Data Validation, Submission, Report |
-| 18222036 | Olivia Christy Lismanto       | Data Preprocessing, Submission, Error Analysis, Report               |
+| 18222008 | Abel Apriliani                | Notebook initialization, EDA, Data Cleaning, Pipelining, Data Validation, Submission, Report |
+| 18222036 | Olivia Christy Lismanto       | Data Preprocessing, Submission, Pipelining, Error Analysis, Report    |
 | 18222044 | Khansa Adilla Reva            | KNN Implementation, Submission, Report                                |
 | 18222062 | Nafisha Virgin                | Naive Bayes Implementation, Report                                    |
                 
